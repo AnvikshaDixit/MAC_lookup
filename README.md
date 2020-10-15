@@ -1,9 +1,11 @@
 # MAC_lookup
 
 **Prerequisite:**
+
 - Docker 
 
 
+**Execution Steps:**
 
 1. Open Command prompt and navigate to the path where you have cloned the repository
 2. run 
